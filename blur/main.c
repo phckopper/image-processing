@@ -1,3 +1,9 @@
+/*
+ *	Blur
+ *	Blurs an image in-place using a 3x3 weighting mask
+ *	Works only with 24-bits BMP files 
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 
